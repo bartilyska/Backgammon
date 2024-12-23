@@ -11,3 +11,4 @@ Version of Backgammon with unique features, implemented with the following const
   - **Saving and loading games** from text files.
   - A **ranking system** for tracking player performance.
   - **Game replay**: Ability to view different positions from earlier games.
+![image](https://github.com/user-attachments/assets/61d680ac-3944-4354-84ae-0daf4ece69b8)
